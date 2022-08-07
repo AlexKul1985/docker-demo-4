@@ -1,7 +1,7 @@
 version: '3'
 services:
   api: 
-    image: demo4
+    image: demo4-1
     container_name: my-name
     ports:
      - 3000:3000
